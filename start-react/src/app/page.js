@@ -3,7 +3,9 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      Hello Page~
+      <h2>Welcome</h2>
+      Hello Web!
+      <p><img src="test.png"></img></p>
     </>
   );
 }
